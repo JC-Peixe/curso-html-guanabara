@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+body{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+h1{
+    color: blueviolet;
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: crimson;
+}
