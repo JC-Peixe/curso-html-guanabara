@@ -1,0 +1,10 @@
+*/* configurações globais das CSS's*/
+{
+height: 100%;
+}
+body{
+    background-image: linear-gradient(to bottom, #998fc7 33%,#f9f5ff);/* circle-gradiente usa deg 'angulos',*/
+    
+    background-attachment: fixed;
+    
+}
